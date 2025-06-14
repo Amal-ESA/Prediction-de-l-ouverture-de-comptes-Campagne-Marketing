@@ -1,2 +1,2 @@
 # Prediction-de-l-ouverture-de-comptes-Campagne-Marketing
-Modélisation de la probabilité d’ouverture de compte après une campagne marketing. Application de méthodes de machine learning pour identifier les facteurs influençant le taux de conversion et optimiser le ciblage des actions marketing.
+Ce projet vise à prédire l’ouverture de comptes suite à des campagnes marketing téléphoniques,en exploitant des méthodes avancées de machine learning et d’analyse statistique. En s’appuyant sur une base de données riche et variée, notre objectif est de comprendre les facteurs influençant les décisions des clients et d’optimiser les ressources allou´ees aux campagnes.
